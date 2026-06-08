@@ -1,0 +1,1 @@
+v62: iPad横画面でcanvas内部サイズが古いままCSSだけ横長になり、円が楕円に見える問題を修正。ResizeObserver/visualViewport/orientationchangeで実表示サイズへ同期。
